@@ -1,6 +1,6 @@
-package com.xjin.projbar.dataobject;
+package org.webproj.projbar.dataobject;
 
-import com.xjin.projbar.enums.ProjectStatusEnum;
+import org.webproj.projbar.enums.ProjectStatusEnum;
 import org.hibernate.annotations.DynamicUpdate;
 
 import javax.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.xjin.projbar.VO;
+package org.webproj.projbar.VO;
 
 public class ResultVO<T> {
     private Integer code;

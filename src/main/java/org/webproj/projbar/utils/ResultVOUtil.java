@@ -1,6 +1,6 @@
-package com.xjin.projbar.utils;
+package org.webproj.projbar.utils;
 
-import com.xjin.projbar.VO.ResultVO;
+import org.webproj.projbar.VO.ResultVO;
 
 public class ResultVOUtil {
     public static ResultVO success(Object object) {

@@ -1,4 +1,4 @@
-package com.xjin.projbar;
+package org.webproj.projbar;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

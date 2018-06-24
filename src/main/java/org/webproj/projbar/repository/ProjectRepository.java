@@ -1,6 +1,6 @@
-package com.xjin.projbar.repository;
+package org.webproj.projbar.repository;
 
-import com.xjin.projbar.dataobject.Project;
+import org.webproj.projbar.dataobject.Project;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

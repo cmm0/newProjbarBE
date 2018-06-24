@@ -1,7 +1,6 @@
-package com.xjin.projbar.service;
+package org.webproj.projbar.service;
 
-import com.xjin.projbar.VO.ProjectVO;
-import com.xjin.projbar.dataobject.Project;
+import org.webproj.projbar.dataobject.Project;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 

@@ -1,4 +1,4 @@
-package com.xjin.projbar.enums;
+package org.webproj.projbar.enums;
 
 public enum ProjectStatusEnum {
     NORMAL(0, "正常"),
